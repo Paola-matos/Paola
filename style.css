@@ -2,6 +2,8 @@ body {
     background: #cccccc
 }
 
+#banner
+
 h1 {
       text-align: center;
 }
@@ -11,7 +13,7 @@ p {
 }
 
 #missao {
-    fonte - size: 20px
+    font-size: 20px;
 }
 
 em strong {
